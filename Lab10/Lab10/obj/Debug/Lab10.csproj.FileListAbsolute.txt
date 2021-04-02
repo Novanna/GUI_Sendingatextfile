@@ -1,0 +1,8 @@
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Lab10\Lab10\bin\Debug\Lab10.exe
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Lab10\Lab10\bin\Debug\Lab10.pdb
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Lab10\Lab10\obj\Debug\Lab10.Form1.resources
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Lab10\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Lab10\Lab10\obj\Debug\Lab10.csproj.GenerateResource.Cache
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Lab10\Lab10\obj\Debug\Lab10.exe
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\Lab10\Lab10\obj\Debug\Lab10.pdb
